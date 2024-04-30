@@ -1,0 +1,11 @@
+Plotted to '/Users/nathaniel/Downloads/boost-converter-F_Cu.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-B_Cu.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-F_Paste.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-B_Paste.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-F_Silkscreen.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-B_Silkscreen.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-F_Mask.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-B_Mask.gbr'.
+Plotted to '/Users/nathaniel/Downloads/boost-converter-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/nathaniel/Downloads/boost-converter-job.gbrjob'.
+Info: Done.
